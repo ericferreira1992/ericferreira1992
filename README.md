@@ -19,10 +19,17 @@ Working with code since 2008, but professionally I have over 12 years of experie
 - 🖱️ Contribute to high quality in iOS app development using Swift;
 - 🖥️ Responsive web application development;
 
+## 💡 Open source contributions and Projects:
+- [Nimble framework](https://ericferreira1992.github.io/nimble-page); <sub>_(SPA Framework)_</sub>
+- [AgTable](https://ericferreira1992.github.io/ag-table);<sub> _(Angular Component)_</sub>
+- [AgVirtualScroll](https://ericferreira1992.github.io/ag-virtual-scroll);<sub>_(Angular Component)_</sub>
+- [AlphabetSearchView](https://pub.dev/packages/alphabet_search_view); <sub>_(Angular Component)_</sub>
+- [AlphabetFilter](https://ericferreira1992.github.io/alphabet-filter); <sub>_(Angular Component)_</sub>
+- [SliderCarousel](https://ericferreira1992.github.io/slider-carousel); <sub>_(Angular Component)_</sub>
+
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericferreira92/)
 [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@ericandrade_24404)
-
 
 ## 💻 Technology Stack:
 
