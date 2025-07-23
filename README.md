@@ -4,6 +4,7 @@ Working with code since 2008, but professionally I have over 12 years of experie
 
 ## 🔧 Core Technical Expertise
 - **Frontend**: Angular v15+ (+8 yrs), TypeScript (+8 yrs), RxJS (+8 yrs), JavaScript (+11 yrs), React (1 yr);
+- **Mobile**: Flutter/Dart (+3 yrs), iOS/Swift (+3 yrs);
 - **Backend**: .NET (3 yrs), Entity Framework (3 yrs), Dapper (3 yrs), PHP Laravel (2 yrs), RESTful APIs (+3 yrs), Node.js (1 yr), Express.js (1 yr), MongoDB (1 yr);
 - **Database**: SQL Server (3 yrs), MySQL (5 yrs), PostgreSQL (2 yrs), MongoDB (1 yr);
 - **Cloud & DevOps**: AWS (1 yr), Azure (2 yrs), Firebase (2 yrs);
