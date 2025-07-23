@@ -21,11 +21,11 @@ Working with code since 2008, but professionally I have over 12 years of experie
 
 ## 💡 Open source contributions and Projects:
 - [Nimble framework](https://ericferreira1992.github.io/nimble-page); <sub>_(SPA Framework)_</sub>
-- [AgTable](https://ericferreira1992.github.io/ag-table);<sub> _(Angular Component)_</sub>
-- [AgVirtualScroll](https://ericferreira1992.github.io/ag-virtual-scroll);<sub>_(Angular Component)_</sub>
-- [AlphabetSearchView](https://pub.dev/packages/alphabet_search_view); <sub>_(Angular Component)_</sub>
-- [AlphabetFilter](https://ericferreira1992.github.io/alphabet-filter); <sub>_(Angular Component)_</sub>
-- [SliderCarousel](https://ericferreira1992.github.io/slider-carousel); <sub>_(Angular Component)_</sub>
+- [AgTable](https://ericferreira1992.github.io/ag-table); ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=social&logo=angular)
+- [AgVirtualScroll](https://ericferreira1992.github.io/ag-virtual-scroll); ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=social&logo=angular)
+- [AlphabetFilter](https://ericferreira1992.github.io/alphabet-filter); ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=social&logo=angular)
+- [SliderCarousel](https://ericferreira1992.github.io/slider-carousel); ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=social&logo=angular)
+- [AlphabetSearchView](https://pub.dev/packages/alphabet_search_view); ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=social&logo=flutter)
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericferreira92/)
@@ -43,6 +43,10 @@ Working with code since 2008, but professionally I have over 12 years of experie
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A.svg?style=for-the-badge&logo=swift&logoColor=white)
 
 ### Backend & Database
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
